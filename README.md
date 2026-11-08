@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 * 🌱 I'm currently working on **Meio**, a free, cross-platform music player.
-* 🐧 Linux enthusiast (macOS is fine too)
+* 🐧 Linux, BSD & niche things enthusiast (macOS is fine too)
 * 🔭 I love open-source software and learning new things every day.
 
 <sub>🌐 A world without Open Source isn't a world. Let's make it stay that way.</sub>
